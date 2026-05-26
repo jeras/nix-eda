@@ -39,7 +39,7 @@
   bash,
   version ? "0.65",
   rev ? null,
-  sha256 ? "sha256-H68gUJwhA5tuiBNmd8wvyyluICPdqNibyCFTZ8N/nKc=",
+  sha256 ? "sha256-q2SS58GcS1HyXq46H/eEm+Fcnt4sAc04JphVvgdbszs=",
   darwin, # To fix codesigning issue for pyosys
   # For environments
   yosys,

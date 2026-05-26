@@ -26,8 +26,8 @@
   cmake,
   fmt,
   jq,
-  rev ? "4e53d772996184b07e9bfe784060f96e6cb0a267",
-  rev-date ? "2026-03-25",
+  rev ? "4d41fabbad1194c3c4a83466d39439728f2db056",
+  rev-date ? "2026-05-21",
   hash ? "sha256-1Jo1F5CTBXAAiDhtF5/v/uxeZV9AMdmXC7rrZaXHvGY=",
 }:
 clang18Stdenv.mkDerivation {

@@ -25,8 +25,8 @@
   fetchFromGitHub,
   python3,
   ghdl-bin,
-  rev ? "233dffbde92bb7fe8405712a3e78d66075ccda00",
-  rev-date ? "2025-10-07",
+  rev ? "0afb85a32fbda2f1c3e00298d08336e98bc71b10",
+  rev-date ? "2026-05-14",
   sha256 ? "sha256-wUJajkn0ObJIWGSK6WlDRSTWw0gJ1YpQjbUhNXFkJxU=",
 }:
 yosys.stdenv.mkDerivation {

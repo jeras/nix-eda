@@ -3,7 +3,7 @@
 {
   verilator,
   fetchFromGitHub,
-  version ? "5.046",
+  version ? "5.048",
   rev ? null,
   sha256 ? "sha256-dfZzbQrw/14dFvWnkmCDElwsGm6GdFstNAURujvEIb8=",
 }:

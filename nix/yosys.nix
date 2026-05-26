@@ -37,7 +37,7 @@
   fetchurl,
   fetchGitHubSnapshot,
   bash,
-  version ? "0.64",
+  version ? "0.65",
   rev ? null,
   sha256 ? "sha256-H68gUJwhA5tuiBNmd8wvyyluICPdqNibyCFTZ8N/nKc=",
   darwin, # To fix codesigning issue for pyosys
